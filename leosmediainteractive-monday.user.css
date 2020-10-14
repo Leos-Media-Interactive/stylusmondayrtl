@@ -53,4 +53,16 @@
         margin-left: 3px;
         margin-right: 0px;
     }
+    
+    .reply-body-component {
+        direction: rtl;
+    }
+    .reply-body-component .reply_body {
+        margin-right: 50px;
+        margin-left: 0;
+    }
+    .reply-body-component .reply_body .details .detail_tools{
+        float: right;
+        direction: ltr;
+    }
 }
