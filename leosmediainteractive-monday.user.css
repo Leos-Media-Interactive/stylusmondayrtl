@@ -2,7 +2,7 @@
 @name         leosmediainteractive.monday.com
 @description  leosmediainteractive.monday.com rtl
 @namespace    leosmediainteractive.monday.com.rtl
-@version      0.2.1
+@version      0.2.2
 @author       drorseltzer <drorsel@gmail.com> (https://github.com/drorseltzer)
 @license      unlicense
 @preprocessor stylus
@@ -66,7 +66,7 @@
         direction: ltr;
     }
     .pulse_container .posts_list .post .post_header .post_title, .new_pulse .posts_list .post .post_header .post_title{
-        direction: ltr;
+        direction: rtl;
     }
     .pulse_container .posts_list .post .title, .new_pulse .posts_list .post .title{
         margin-left: 0px;
